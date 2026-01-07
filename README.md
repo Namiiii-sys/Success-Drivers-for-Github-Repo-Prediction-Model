@@ -76,7 +76,4 @@ The scraping script collects and converts this data into a structured, analysis-
 
 ---
 
-## 📈 Visualizations (Examples)
-
-(Add your graphs here once generated)
 
